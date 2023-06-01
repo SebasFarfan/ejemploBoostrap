@@ -1,0 +1,39 @@
+header {
+	background: #5acdd1;
+	padding: 5px 0px;
+}
+
+.imagen {
+    border: solid 2px #ffa111;
+}
+
+.barra {
+    background:  #00b3b3;	
+}
+
+
+.seccion-principal {
+    background-color: #332e50b4;
+}
+
+.seccion-aside {
+    background-color: aquamarine;
+}
+
+
+.formulario {
+    margin: 5rem;
+    padding: 5rem;
+    border-radius: 5px;
+    border: solid 1px #1b3d46;
+}
+
+
+.footer {
+    background-color: #85A596;
+	display: block;
+	padding: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
